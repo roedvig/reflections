@@ -27,4 +27,8 @@ What is the result of merging two branches together? Why do we represent it in t
 coins is now integrated with the master and does in some sense not exist any more. All the commits are there, but now in one direct line.
 
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Doing it automatiacally shows exactly where the conflicts are, making them easy to deal with.
+
 
