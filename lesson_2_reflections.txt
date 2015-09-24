@@ -5,4 +5,4 @@ A hidden git folder is created in the current folder. This new folder enables th
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-The files are only half way to being commited, but they are part of the repository. This is smart because you could have a single function working over multiple files, so to make one logical/semantic commit would sometimes require that you commit multiple files at once. \ o /
+The files are only half way to being commited, but they are part of the repository. This is smart because you could have a single function working over multiple files, so to make one logical/semantic commit would sometimes require that you commit multiple files at once. \ o / -_-
