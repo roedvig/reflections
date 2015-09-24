@@ -22,6 +22,9 @@ How do the diagrams help you visualize the branch structure?
 they give you an overview and branched work like light or water, moving in only one direktion, meaning you can’t go upstream and choose a different path.
 
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+coins is now integrated with the master and does in some sense not exist any more. All the commits are there, but now in one direct line.
 
 
 
