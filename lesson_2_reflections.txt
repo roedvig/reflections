@@ -6,3 +6,22 @@ A hidden git folder is created in the current folder. This new folder enables th
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The files are only half way to being commited, but they are part of the repository. This is smart because you could have a single function working over multiple files, so to make one logical/semantic commit would sometimes require that you commit multiple files at once. \ o / -_-
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+By adding only the stuff you want to commit into the staging area before you commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches are great for experimenting! It allows you to have minor differences without having entire copies of the whole folder as I usually do… or weird hacks in code or console.
+
+
+How do the diagrams help you visualize the branch structure?
+
+they give you an overview and branched work like light or water, moving in only one direktion, meaning you can’t go upstream and choose a different path.
+
+
+
+
+
