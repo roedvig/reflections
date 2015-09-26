@@ -14,3 +14,7 @@ Forks is the same as clone, but only on githubs servers. clone is used for worki
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 This ensures that you can work without an interconnection and update the remote later.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would share a folder on dropbox and keep a running dialogue through instant messaging, but this is definitely harder and requires discipline. I don’t think I have an easier option. 
