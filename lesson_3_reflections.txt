@@ -18,3 +18,7 @@ This ensures that you can work without an interconnection and update the remote 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I would share a folder on dropbox and keep a running dialogue through instant messaging, but this is definitely harder and requires discipline. I don’t think I have an easier option. 
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When a new feature is added or significant changes to the code are made. Working in the master in only branch is easier to understand, but working in several allows more people to work on a given project.
